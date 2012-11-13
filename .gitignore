@@ -33,3 +33,9 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# OSX
+._*
+.DS_Store
+.Spotlight-V100
+.Trashes

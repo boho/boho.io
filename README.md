@@ -1,2 +1,1 @@
-boho.github.com
-===============
+# boho.io
