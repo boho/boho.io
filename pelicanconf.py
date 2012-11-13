@@ -3,7 +3,7 @@
 
 AUTHOR = u"Dan Lewis & Nick Bourgeois"
 SITENAME = u"Boho"
-SITEURL = ''
+SITEURL = 'http://boho.io'
 
 TIMEZONE = 'Europe/Paris'
 

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Boho</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2012-11-13T11:45:55Z</updated></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Boho</title><link href="http://boho.io/" rel="alternate"></link><link href="http://boho.io/feeds/all.atom.xml" rel="self"></link><id>http://boho.io/</id><updated>2012-11-13T12:16:54Z</updated></feed>
