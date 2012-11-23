@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block assets_top %}
+	{{ super() }}
+    <script>
+        var pov = require('pov');
+        $.domReady(function() {
+            pov.setGoals([{ target: '.button' }]);
+        });
+    </script>
+{% endblock %}
+{% block title %}{{ page.title }}{% endblock %}
+{% block content %}{{ page.content }}{% endblock %}

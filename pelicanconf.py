@@ -1,22 +1,22 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
-AUTHOR = u"Dan Lewis & Nick Bourgeois"
-SITENAME = u"Boho"
-SITEURL = 'http://boho.io'
+# Basic settings
+ARTICLE_DIR = 'posts'
+ARTICLE_EXCLUDES = ()
+AUTHOR = u'Boho'
+LESS_GENERATOR = True
+SITENAME = u'Boho'
+SITEURL = ''
+TIMEZONE = 'America/Chicago'
+TYPOGRIFY = True
 
-TIMEZONE = 'Europe/Paris'
+# URL settings
+PAGE_URL = '{slug}.html'
+PAGE_SAVE_AS = '{slug}.html'
 
+# Translations
 DEFAULT_LANG = 'en'
 
-# Blogroll
-LINKS =  (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
-          ('Python.org', 'http://python.org'),
-          ('Jinja2', 'http://jinja.pocoo.org'),
-          ('You can modify those links in your config file', '#'),)
-
-# Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
-
-DEFAULT_PAGINATION = 10
+# Theming
+THEME = 'theme'
