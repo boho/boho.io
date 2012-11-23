@@ -3,7 +3,7 @@ Markdown==2.2.1
 Pygments==1.5
 Unidecode==0.04.9
 blinker==1.2
-distribute==0.6.28
+distribute==0.6.30
 docutils==0.9.1
 feedgenerator==1.2.1
 ghp-import==0.1.8
