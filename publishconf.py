@@ -2,10 +2,9 @@
 # -*- coding: utf-8 -*- #
 
 import sys
-from pelicanconf import *
-
-
 sys.path.append('.')
+
+from pelicanconf import *
 
 SITEURL = 'http://boho.io'
 
